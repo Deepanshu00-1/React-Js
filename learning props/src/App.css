@@ -1,0 +1,21 @@
+.resumeDetails{
+    background-color: rgb(109, 201, 109);
+    height: 90vh;
+    width: 100%;
+    /* display: flex; */
+    text-align: center;
+    display: grid;
+    
+}
+
+input{
+    /* position: relative; */
+    width: 50%;
+    margin-left: 25vw;
+    /* margin-bottom: 2vh; */
+}
+button{
+    width: 50%;
+    margin-left: 25vw;
+
+}
