@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    width: 30vw;
+    height: 10vh;
+    background-color: antiquewhite;
+    font-size: 5vh;
+}
+.jobRole{
+    width: 30vw;
+    height: 10vh;
+    background-color: azure;
+    font-size: 3vh;
+}

@@ -1,4 +1,4 @@
-body{
+/* body{
     background-color: rgb(156, 156, 156);
     
 }
@@ -23,7 +23,7 @@ body{
 .name{
     width: 50%;
     background-color: bisque;
-    /* display: flex; */
+    display: flex;
 }
 .name h2{
     width: 40vw;
@@ -48,18 +48,18 @@ body{
     height: 5vh;
     background-color: bisque;
     margin-left: 12vw;
-    /* position: fixed; */
+    position: fixed;
 }
 .linkedin{
-    /* position: fixed; */
+    position: fixed;
     margin-top: 4vh;
     width: 10vw;
     height: 5vh;
     background-color: rgb(248, 200, 141);
-    /* margin-left: 12vw; */
+    margin-left: 12vw;
 }
 .github{
-    /* position: fixed; */
+    position: fixed;
     margin-top: 4vh;
     width: 10vw;
     height: 5vh;
@@ -72,11 +72,10 @@ body{
     background-color: black;
 }
 .Address{
-    /* background-color: cadetblue; */
+    background-color: cadetblue;
     width: 20vw;
     height: 13vh;
     margin-top: 9vh;
-    /* margin-right: ; */
 }
 .phone{
     margin-top: 1vh;
@@ -97,4 +96,4 @@ body{
     width: 17vw;
     margin-left: -20vw;
     margin-top: -2vh;
-}
+} */
