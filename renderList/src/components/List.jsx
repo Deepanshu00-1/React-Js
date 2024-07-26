@@ -10,6 +10,8 @@ function List(){
         {id: 4, name: 'coconut', calories: 159},
         {id: 5, name: 'pineapple', calories: 37}
     ];
+    
+
     // Alphabetical
     fruits.sort((a,b)=> a.name.localeCompare(b.name)); {/* Lexicographic: The phrase lexicographic order means in alphabetical order. it is a common
                                term in computer science. it may indicate that numbers are to be treated as strings so 10
