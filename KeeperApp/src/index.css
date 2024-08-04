@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: azure; */
+}
+body{
+  background-color: rgb(201, 198, 198);
+}
+header{
+  height: 10vh;
+  width: 100%;
+  background-color: rgb(235, 180, 79);
+  display: flex;
+  align-items: center;
+}
+header h2{
+  color: white;
+  margin-left: 3vw;
+  font-size: xx-large;
+}
+.note{
+  width: 15vw;
+  height: 8vh;
+  background-color: white;
+  border-radius: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1vh 0 0 2vw;
+}
+footer{
+  margin: 76vh 0 0 45vw;
+  font-size: x-large;
+}
